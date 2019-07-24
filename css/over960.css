@@ -1,0 +1,11 @@
+.container {
+  width: 1000px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+.project1,
+.project2,
+.project3 {
+  width: 33.3333%;
+}

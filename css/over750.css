@@ -1,0 +1,12 @@
+.logo {
+  padding-top: 25px;
+  width: 80px;
+  height: auto;
+}
+.header-name {
+  font-size: 1.3em;
+}
+.project1,
+.project2 {
+  width: 50%;
+}
